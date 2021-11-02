@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "61812df37bb24c822a9d9bc0"
+  },
+  "DNI": 98765201,
+  "Nombre": "Marcos",
+  "Apellido": "Bindo",
+  "Edad": 19,
+  "Disciplina": "Tenis"
+},{
+  "_id": {
+    "$oid": "61812efb7bb24c822a9d9bc2"
+  },
+  "DNI": 3709826,
+  "Nombre": "Juan",
+  "Apellido": "Perez",
+  "Edad": 19,
+  "Disciplina": "TaeKwonDo"
+}]

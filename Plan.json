@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "61812fa87bb24c822a9d9bcb"
+  },
+  "Edad": 19,
+  "Peso Inicial": 60.5,
+  "Cintura Inical": 56.7,
+  "Necesidad": "Ganar musculo",
+  "Duracion": 7
+},{
+  "_id": {
+    "$oid": "618130b17bb24c822a9d9bcc"
+  },
+  "Edad": 40,
+  "Peso Inicial": 90.4,
+  "Cintura Inical": 68.2,
+  "Necesidad": "Quemar Grasa",
+  "Duracion": 30
+}]

@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "61812f207bb24c822a9d9bc5"
+  },
+  "Matricula": 927382,
+  "Nombre": "Mingo",
+  "Apellido": "Gonzales",
+  "Edad": 40,
+  "Especialidad": "Deportologo"
+},{
+  "_id": {
+    "$oid": "61812f557bb24c822a9d9bc6"
+  },
+  "Matricula": 672931,
+  "Nombre": "Lautaro",
+  "Apellido": "Gonzalez",
+  "Edad": 36,
+  "Disciplina": "Deportologo"
+}]
